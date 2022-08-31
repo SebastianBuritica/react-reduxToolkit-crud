@@ -2,13 +2,7 @@
 
 This is a simple Web application CRUD (Create, Read, Update, Delete) using React and Redux Toolkit.
 
-## Installation
 
-```
-git clone https://github.com/FaztWeb/react-rtk-crud
-cd react-rtk-crud
-npm i
-npm start
 ```
 
 ## More Info
